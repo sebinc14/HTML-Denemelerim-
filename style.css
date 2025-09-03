@@ -100,3 +100,35 @@
     background: #c9e2ef;
     transition: .5s;
  }
+
+.content {
+    max-width: 900px;
+    margin: 120px auto;
+    padding: 20px;
+    text-align: center; 
+    font-family: 'Times New Roman', Times, serif;
+    color: #000c42;
+}
+
+.content h1 {
+    font-size: 42px;
+    color: #003366;
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 22px;
+    line-height: 1.8;
+    margin-bottom: 15px;
+}
+
+.content ul {
+    margin-top: 20px;
+    list-style: none;
+    padding: 0;
+}
+
+.content ul li {
+    font-size: 20px;
+    margin: 10px 0;
+}
